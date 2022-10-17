@@ -1,0 +1,26 @@
+# This .gitignore file should be placed in root of unity project
+#
+#
+#
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+#memory captures can get excessive in size
+#they also contain sensitive data 
+/[Mm]emoryCaptures/
+
+#recordings 
+/[Rr]ecordings/
+
+#/[Aa]ssets/AssetstoreTools*
+
+#vs cache directory
+.vs/
+
+#gradle cache directory
+.gradle/
